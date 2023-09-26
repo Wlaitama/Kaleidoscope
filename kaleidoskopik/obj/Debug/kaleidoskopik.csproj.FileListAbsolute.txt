@@ -1,0 +1,20 @@
+C:\Users\Влад\source\repos\kaleidoskopik\kaleidoskopik\obj\Debug\kaleidoskopik.csprojAssemblyReference.cache
+C:\Users\Влад\source\repos\kaleidoskopik\kaleidoskopik\obj\Debug\kaleidoskopik.Form1.resources
+C:\Users\Влад\source\repos\kaleidoskopik\kaleidoskopik\obj\Debug\kaleidoskopik.Properties.Resources.resources
+C:\Users\Влад\source\repos\kaleidoskopik\kaleidoskopik\obj\Debug\kaleidoskopik.csproj.GenerateResource.cache
+C:\Users\Влад\source\repos\kaleidoskopik\kaleidoskopik\obj\Debug\kaleidoskopik.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\kaleidoskopik\kaleidoskopik\bin\Debug\kaleidoskopik.exe.config
+C:\Users\Влад\source\repos\kaleidoskopik\kaleidoskopik\bin\Debug\kaleidoskopik.exe
+C:\Users\Влад\source\repos\kaleidoskopik\kaleidoskopik\bin\Debug\kaleidoskopik.pdb
+C:\Users\Влад\source\repos\kaleidoskopik\kaleidoskopik\obj\Debug\kaleidoskopik.exe
+C:\Users\Влад\source\repos\kaleidoskopik\kaleidoskopik\obj\Debug\kaleidoskopik.pdb
+C:\Users\Влад\Рабочий стол\Курсовой\kaleidoskopik\kaleidoskopik\bin\Debug\kaleidoskopik.exe.config
+C:\Users\Влад\Рабочий стол\Курсовой\kaleidoskopik\kaleidoskopik\bin\Debug\kaleidoskopik.exe
+C:\Users\Влад\Рабочий стол\Курсовой\kaleidoskopik\kaleidoskopik\bin\Debug\kaleidoskopik.pdb
+C:\Users\Влад\Рабочий стол\Курсовой\kaleidoskopik\kaleidoskopik\obj\Debug\kaleidoskopik.csprojAssemblyReference.cache
+C:\Users\Влад\Рабочий стол\Курсовой\kaleidoskopik\kaleidoskopik\obj\Debug\kaleidoskopik.Form1.resources
+C:\Users\Влад\Рабочий стол\Курсовой\kaleidoskopik\kaleidoskopik\obj\Debug\kaleidoskopik.Properties.Resources.resources
+C:\Users\Влад\Рабочий стол\Курсовой\kaleidoskopik\kaleidoskopik\obj\Debug\kaleidoskopik.csproj.GenerateResource.cache
+C:\Users\Влад\Рабочий стол\Курсовой\kaleidoskopik\kaleidoskopik\obj\Debug\kaleidoskopik.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Рабочий стол\Курсовой\kaleidoskopik\kaleidoskopik\obj\Debug\kaleidoskopik.exe
+C:\Users\Влад\Рабочий стол\Курсовой\kaleidoskopik\kaleidoskopik\obj\Debug\kaleidoskopik.pdb

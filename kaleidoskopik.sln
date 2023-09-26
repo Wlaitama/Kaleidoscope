@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kaleidoskopik", "kaleidoskopik\kaleidoskopik.csproj", "{D5EC10C5-F7B9-438E-8251-5C51EB25D9BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5EC10C5-F7B9-438E-8251-5C51EB25D9BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5EC10C5-F7B9-438E-8251-5C51EB25D9BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5EC10C5-F7B9-438E-8251-5C51EB25D9BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5EC10C5-F7B9-438E-8251-5C51EB25D9BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC577CDD-4FFC-4B2A-A324-6E7DC453B018}
+	EndGlobalSection
+EndGlobal
